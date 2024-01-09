@@ -1,5 +1,16 @@
 # food_delivery_app
 t forms an integral part of your final project assessment.
+
+<a href="https://github.com/Akshay0701/food_delivery_app/releases"><img src="download (2)](https://github.com/GEDIH/food_delivery_app/assets/117825147/820964a8-67cc-4017-903d-0e68bbbbec56/></a>
+<a href="https://github.com/Akshay0701/food_delivery_app/issues"><img src="https://img.shields.io/github/commit-activity/m/Akshay0701/food_delivery_app" alt="commit-activity"/></a>
+<a href="https://github.com/Akshay0701/food_delivery_app/network/members"><img src="https://img.shields.io/github/forks/Akshay0701/food_delivery_app" alt="forks"/></a>
+<a href="https://github.com/Akshay0701/food_delivery_app/stargazers"><img src="https://img.shields.io/github/stars/Akshay0701/food_delivery_app" alt="stars"/></a>
+<a href="https://github.com/Akshay0701/food_delivery_app/graphs/contributors"><img src="https://img.shields.io/github/contributors/Akshay0701/food_delivery_app" alt="contributors"/></a>
+<a href="https://github.com/Akshay0701/food_delivery_app/actions"><img src="https://img.shields.io/github/checks-status/Akshay0701/food_delivery_app/master?label=build" alt="build"/></a>
+<a href="https://github.com/Akshay0701/food_delivery_app/blob/master/COPYING"><img src="https://img.shields.io/github/license/Akshay0701/food_delivery_app" alt="license"/></a>
+</p>
+
+
 ![download (2)](https://github.com/GEDIH/food_delivery_app/assets/117825147/820964a8-67cc-4017-903d-0e68bbbbec56)
 
 
