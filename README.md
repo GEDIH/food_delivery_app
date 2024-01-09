@@ -1,7 +1,7 @@
 # food_delivery_app
 t forms an integral part of your final project assessment.
 
-<a href="https://github.com/Akshay0701/food_delivery_app/releases"><img src="download (2)](https://github.com/GEDIH/food_delivery_app/assets/117825147/820964a8-67cc-4017-903d-0e68bbbbec56/></a>
+<a href="[https://github.com/Akshay0701/food_delivery_app](https://github.com/GEDIH/food_delivery_app)/releases"><img src="download (2)](https://github.com/GEDIH/food_delivery_app/assets/117825147/820964a8-67cc-4017-903d-0e68bbbbec56/></a>
 </p>
 
 
