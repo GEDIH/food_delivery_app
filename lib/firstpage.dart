@@ -10,13 +10,13 @@ class FirstPage extends StatelessWidget {
       backgroundColor: Colors.grey.shade100,
       resizeToAvoidBottomPadding: false,
       body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 65.0),
+        padding: EdgeInsets.symmetric(horizontal: 70.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            SizedBox(height: 10),
+            SizedBox(height: 15),
             Container(
-              padding: EdgeInsets.all(150),
+              padding: EdgeInsets.all(180),
               width: 280,
               decoration: new BoxDecoration(
                 color: Colors.transparent,
