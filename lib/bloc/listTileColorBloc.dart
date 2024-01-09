@@ -8,7 +8,7 @@ class ColorBloc extends BlocBase {
   ColorBloc();
 
 //Stream that receives a number and changes the count;
-  var _colorController = BehaviorSubject<Color>.seeded(Colors.white);
+  var _colorController = BehaviorSubject<Color>.seeded(Colors.Red);
 
 //output
   Stream<Color> get colorStream => _colorController.stream;
