@@ -84,7 +84,7 @@ class _RestaurantSignupState extends State<RestaurantSignup> {
                       obscureText: _toggleVisibility,
                     ),
                     SizedBox(
-                      height: 20.0,
+                      height: 25.0,
                     ),
                   ],
                 ),
@@ -96,7 +96,7 @@ class _RestaurantSignupState extends State<RestaurantSignup> {
             GestureDetector(
                 child: Container(
                   height: 50.0,
-                  width: 250,
+                  width: 300,
                   decoration: BoxDecoration(
                       color: Themes.color,
                       borderRadius: BorderRadius.circular(25.0),
