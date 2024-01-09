@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:food_delivery/const/themeColor.dart';
 import 'package:food_delivery/location/map.dart';
@@ -71,10 +70,9 @@ class PaymentSuccessPageState extends State<PaymentSuccessPage> {
               ),
             ));
   }
-
   successTicket() => Container(
         width: double.infinity,
-        padding: const EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(20.0),
         child: Material(
           clipBehavior: Clip.antiAlias,
           elevation: 2.0,
