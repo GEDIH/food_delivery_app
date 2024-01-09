@@ -11,6 +11,7 @@ class SignUpPage extends StatefulWidget {
   _SignUpPageState createState() => _SignUpPageState();
 }
 
+
 class _SignUpPageState extends State<SignUpPage> {
   TextEditingController emailController = new TextEditingController();
   TextEditingController passwordController = new TextEditingController();
@@ -41,7 +42,7 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
             ),
             Card(
-              elevation: 5.0,
+              elevation: 6.0,
               child: Padding(
                 padding: EdgeInsets.all(20.0),
                 child: Column(
@@ -55,7 +56,7 @@ class _SignUpPageState extends State<SignUpPage> {
                         hintText: "Email",
                         hintStyle: TextStyle(
                           color: Color(0xFFBDC2CB),
-                          fontSize: 18.0,
+                          fontSize: 20.0,
                         ),
                       ),
                     ),
