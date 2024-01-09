@@ -7,6 +7,7 @@ import './const/themeColor.dart';
 import './model/fooditem.dart';
 import './paymentpage/payment_page.dart';
 
+
 class Cart extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -72,7 +73,7 @@ class BottomBar extends StatelessWidget {
                     "Next",
                     style: TextStyle(
                       fontWeight: FontWeight.w900,
-                      fontSize: 16,
+                      fontSize: 18,
                     ),
                   ),
                 ],
