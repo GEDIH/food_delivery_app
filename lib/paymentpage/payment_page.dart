@@ -42,7 +42,7 @@ class PaymentPage extends StatelessWidget {
                 ],
               ),
             ),
-            SizedBox(height: 40),
+            SizedBox(height: 45),
             Container(
               decoration: BoxDecoration(
                   color: Themes.color,
@@ -108,7 +108,7 @@ class PaymentPage extends StatelessWidget {
                 ),
               ),
             ),
-            SizedBox(height: 150),
+            SizedBox(height: 160),
             Container(
               padding: EdgeInsets.all(125),
               height: 350,
