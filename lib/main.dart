@@ -16,7 +16,7 @@ import './loginpage/signup_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 void main() {
-  debugDefaultTargetPlatformOverride =TargetPlatform.fuchsia;
+  debugDefaultTargetPlatformOverride =TargetPlatform.fettan;
    runApp(MyApp());
 }
 
