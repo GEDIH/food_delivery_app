@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/widgets.dart';
 class RestaurantManagement {
   storeNewRestaurant(user, context) {
-    Firestore.instance.collection('Restaurant').add({
+    Firestore.instance.collection('Restaurant&cafe').add({
       'email': user.email,
        'uid': user.uid
     }).then((value) {
