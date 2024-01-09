@@ -2,7 +2,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:food_delivery/const/themeColor.dart';
 import '../services/crud.dart';
-
 class RestaurantHome extends StatefulWidget {
   @override
   _RestaurantHomeState createState() => _RestaurantHomeState();
@@ -40,21 +39,21 @@ class _RestaurantHomeState extends State<RestaurantHome> {
                           color: Colors.blueGrey,
                           fontFamily: 'Raleway',
                           fontWeight: FontWeight.bold,
-                          fontSize: 45),
+                          fontSize: 50),
                     ),
                   ],
                 ),
               ),
-              SizedBox(height: 60),
+              SizedBox(height: 55),
               Container(
-                width: 350,
+                width: 400,
                 child: TextField(
                   keyboardType: TextInputType.url,
                   style: TextStyle(fontFamily: 'Raleway', color: Colors.black),
                   decoration: InputDecoration(
                     labelText: "Image Url",
                     labelStyle:
-                        TextStyle(fontWeight: FontWeight.w200, fontSize: 20),
+                        TextStyle(fontWeight: FontWeight.w200, fontSize: 22),
                     border: OutlineInputBorder(),
                   ),
                   onChanged: (value) {
@@ -62,9 +61,9 @@ class _RestaurantHomeState extends State<RestaurantHome> {
                   },
                 ),
               ),
-              SizedBox(height: 20),
+              SizedBox(height: 25),
               Container(
-                width: 350,
+                width: 400,
                 child: TextField(
                   keyboardType: TextInputType.text,
                   maxLength: 25,
