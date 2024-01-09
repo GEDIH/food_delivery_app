@@ -6,7 +6,6 @@ import '../model/fooditem.dart';
 
 class CartListBloc extends BlocBase {
   CartListBloc();
-
   var _listController = BehaviorSubject<List<FoodItem>>.seeded([]);
 
 //provider class
@@ -14,15 +13,14 @@ class CartListBloc extends BlocBase {
 
 //output
   Stream<List<FoodItem>> get listStream => _listController.stream;
-
+  
 //input
   Sink<List<FoodItem>> get listSink => _listController.sink;
 
   addToList(FoodItem foodItem) {
     listSink.add(provider.addToList(foodItem));
   }
-
-  removeFromList(FoodItem foodItem) {
+removeFromList(FoodItem foodItem) {
     listSink.add(provider.removeFromList(foodItem));
     
   }
