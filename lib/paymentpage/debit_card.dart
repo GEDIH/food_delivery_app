@@ -15,7 +15,7 @@ class CreditCardPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
-            SizedBox(height: 20),
+            SizedBox(height: 30),
             Container(
               color: Colors.white10,
               width: 400,
@@ -27,7 +27,7 @@ class CreditCardPage extends StatelessWidget {
                     child: GestureDetector(
                       child: Icon(
                         CupertinoIcons.back,
-                        size: 38,
+                        size: 40,
                       ),
                       onTap: () {
                         Navigator.pop(_context);
