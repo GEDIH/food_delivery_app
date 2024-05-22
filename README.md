@@ -8,7 +8,6 @@ t forms an integral part of your final project assessment.
 
 ![download (2)](https://github.com/GEDIH/food_delivery_app/assets/117825147/820964a8-67cc-4017-903d-0e68bbbbec56)
 
-
 ![image](https://github.com/GEDIH/food_delivery_app/assets/117825147/2a3d13e3-6617-48c7-80c7-0d65bfccda0f)
 
 
